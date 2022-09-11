@@ -1,7 +1,7 @@
 import random
 #----------------------------------------------#
 #When you want to use the moodule you will have to define the module first
-random.
+random
 #----------------------------------------------#
 #then you choose the function you want from the module:
 #----------------------------------------------#
